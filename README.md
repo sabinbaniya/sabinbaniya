@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-**sabinbaniya/sabinbaniya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p align="center">
+          <samp>
+            Developing full-stack web applications with Typescript.<br/>
+            <a href="https://sabinbaniya.com.np">Website</a> .
+            <a href="https://twitter.com/sabinbaniya_">Twitter</a>
+          </samp>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+            <img width='300' src='https://streak-stats.demolab.com?user=sabinbaniya&theme=merko&hide_border=true&hide_longest_streak=true&hide_total_contributions=true&hide_border=true&background=00000000' />
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
