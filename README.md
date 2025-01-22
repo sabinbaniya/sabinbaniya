@@ -12,7 +12,7 @@
       </td>
       <td>
         <p align="center">
-            <img width='300' src='https://streak-stats.demolab.com?user=sabinbaniya&theme=merko&hide_border=true&hide_longest_streak=true&hide_total_contributions=true&hide_border=true&background=00000000' />
+            <img width='120' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3duNXI4bDliMDhpeXk4dnk0OWd3YmMzaTNxaG1ldjdjNzIyZzB4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H5C8CevNMbpBqNqFjl/giphy.gif' />
         </p>
       </td>
     </tr>
